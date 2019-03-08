@@ -93,6 +93,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Kévin Nadin](https://github.com/kevinjhappy), développeur PHP
 * [Florent Nollet](https://www.linkedin.com/in/florent-n-7584514/), architecte technique
 * [Laurent Olivares](https://www.olivares.fr), consultant internet
+* [Mathieu Ouvrié](https://twitter.com/m_ouvrie), développeur full stack
 * [Marie-Cécile Godwin Paccard](http://mcgodwin.com/), designer
 * [Stéphane Paillet](https://www.linkedin.com/in/stephanepaillet/), sysadmin
 * [William Pollet](https://github.com/williampollet), développeur
